@@ -1,10 +1,7 @@
-###                                  Hi there 👋 I'm Pymode-Dev
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pymode-Dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="" src="">
-</picture>
+
+###                                  Hi there 👋 I'm Pymode-Dev
 
 ## About me
 - Python Developer - Intermediate Level
@@ -20,10 +17,9 @@
   
 </details>
 
-## - 🔭 I’m currently working on ...
-[PyCOLORS](https://github.com/Pymode-Dev/PyCOLORS)
-  - Use colors in your Python Web Development and Desktop Application Easily.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pymode-Dev&repo=PyCOLORS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pymode-Dev&hide=html,css,javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
